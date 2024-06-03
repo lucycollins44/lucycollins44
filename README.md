@@ -9,3 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about Python applications in physics.
 - 😄 Pronouns: she/her
 -->
+
+- 🔭 I’m currently working on figuring out everything.
+- 🌱 I’m currently learning about Python applications in physics.
+- 😄 Pronouns: she/her
